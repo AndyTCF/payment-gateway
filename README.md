@@ -5,7 +5,7 @@
 8x protocol is a way to enable decentralised recurring payments on the Ethereum
 blockchain. You can read more about it at: https://github.com/8x-protocol/whitepaper.
 
-This repo is for the payment gateway that merchnts will use.
+This repo is for the payment gateway that merchants will use.
 
 ## Contributing
 
